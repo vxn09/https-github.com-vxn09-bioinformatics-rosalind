@@ -1,1 +1,1 @@
-# https-github.com-vxn09-bioinformatics-rosalind
+# Vivian Nguyen + 1002410401 + BIOL5340-001
