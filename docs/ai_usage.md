@@ -41,3 +41,9 @@ Snippet of prompt(s): How do I find the GC of each sequence in the code
 What I changed before committing: I just wanted to make sure I was understanding the question correctly. I tested the code I did in task 23.1 and then I tried the new code that Gemini generated and it proved my theory and percentage but the answer was still wrong 
 How I verify correctness (tests, sample data): ended up restarting Colab and reuploading the file, reran the code starting from !pip install and finally it all worked! However, the answer was still wrong so I had to ask Gemini again like how can I read each code individually and I tested it on one of the datasets that I got wrong (dataset 5) and will test for new question. This was hard...I'm so sorry
 
+Tool/model & version: ChatGpt 5
+What I asked for: Week 5 assignment MAFFT in Colab Journal
+Snippet of prompt(s): Give me instructions to do an alignment using MAFFT in Colab"
+What I changed before committing: I did not do any changes but I did test out the code that was written before in the shared Colab journal 
+How I verify correctness (tests, sample data): Did not test anything because Chat gave me the code but I was able to compare various ways to view my alignements. 
+
